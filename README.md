@@ -1,4 +1,55 @@
 
+<h1 align="center">Hi 👋, I'm Abhijeet Kumar</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+  <b>Software Engineer | 🤖 AI & ML Enthusiast | ⛓️ Blockchain Explorer</b>
+</p>
+
+---
+
+### 🚀 About Me  
+💼 Currently working at **Accenture** as an **Associate Software Engineer**  
+💡 Passionate about **AI, Blockchain & Intelligent Systems**  
+⚡ Exploring ways to build impactful & future-ready solutions  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300"/>
+</p>
+
+---
+
+### 📜 Certifications  
+✅ Programming Foundations with **JavaScript, HTML & CSS** – Coursera  
+✅ **Machine Learning (Google)**  
+✅ **Front-end Web Development with React** – Coursera  
+✅ **Object Oriented Programming in Java** – Coursera  
+✅ **React** – Internshala  
+✅ **Data Mining, Software Testing** – NPTEL  
+
+---
+
+### 🛠️ Tech Stickers  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,react,nodejs,html,css,mysql,androidstudio,vscode,eclipse,git,github" />
+</p>
+
+---
+
+### 🌟 Motto  
+<p align="center">
+  <em>"Exploring the future with AI, Blockchain, and impactful software solutions."</em>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+</p>
+
+
+
+
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iabhays) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhijeetabhay/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iabhays_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhays2103@gmail.com) 
 
@@ -9,8 +60,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=iabhays&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iabhays&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iabhays&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
