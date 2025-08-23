@@ -1,4 +1,4 @@
-
+</p>
 <h1 align="center">Hi 👋, I'm Abhijeet Kumar</h1>
 
 <p align="center">
@@ -9,12 +9,20 @@
 ---
 
 ### 🚀 About Me  
-💼 Currently working at **Accenture** as an **Associate Software Engineer**  
+💼 Currently working at <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Accenture_logo.svg" width="90" alt="Accenture Logo"/> as an **Associate Software Engineer 👨‍💻**  
 💡 Passionate about **AI, Blockchain & Intelligent Systems**  
 ⚡ Exploring ways to build impactful & future-ready solutions  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300"/>
+
+  <!-- AI -->
+  <img src="https://t3.ftcdn.net/jpg/13/08/94/98/360_F_1308949876_lacOjlMpGvex4qsMn5VJS0ST53KAnkoH.jpg" width="220" alt="AI"/>
+
+  <!-- GenAI -->
+  <img src="https://media.licdn.com/dms/image/v2/D4E12AQHmt2HavWsIoQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1697380698315?e=2147483647&v=beta&t=eBTgOHI4XcavXC-3v_H83FU18rJtEzYm-q08a8eBHWY" width="220" alt="Generative AI"/>
+
+  <!-- Blockchain -->
+  <img src="https://www.forceplus.com/wp-content/uploads/2024/05/Blockchain.jpg" width="220" alt="Blockchain"/>
 </p>
 
 ---
