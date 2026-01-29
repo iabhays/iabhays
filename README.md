@@ -12,6 +12,7 @@
 💼 Currently working at <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Accenture_logo.svg" width="90" alt="Accenture Logo"/> as an **Associate Software Engineer 👨‍💻**  
 💡 Passionate about **AI, Blockchain & Intelligent Systems**  
 ⚡ Exploring ways to build impactful & future-ready solutions  
+AI Engineer focused on real-time computer vision, gesture recognition, and intelligent systems. Working with YOLO, MediaPipe, LSTM, and GenAI to build production-oriented AI solutions.
 
 <p align="center">
 
